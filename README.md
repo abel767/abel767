@@ -1,26 +1,26 @@
 👋 Hi, I'm **Abel Thomas**!
 
-**Certified SOC Analyst (CSA/CICSA) | Threat Detection & Incident Response Specialist**
+**Aspiring Application Security Professional | Certified SOC Analyst (CSA/CICSA) | Proactive Defender**
 
-I am a cybersecurity professional dedicated to **detecting, analyzing, and mitigating** digital threats. My expertise stems from deep training in **SOC analysis** and IT infrastructure security, allowing me to provide robust defense against modern attack vectors.
+I am an enthusiastic and certified **Fresher** dedicated to beginning a career in cybersecurity. Equipped with the knowledge from my **CSA/CICSA** training, I specialize in understanding and applying **defensive strategies** in real-world environments.
 
-**My development background (MERN) provides a unique advantage in understanding the attacker's perspective and the inner workings of web applications.**
+My development background allows me to uniquely bridge the gap between building software and securing it.
 
-### 🛡️ Cybersecurity Core Competencies
+### 📚 Core Cybersecurity Skills (Learned & Applied)
 
-* **SOC Operations:** Proficient in log analysis, security monitoring, and using **SIEM** tools to triage and investigate high-fidelity security alerts.
-* **Incident Response:** Skilled in containment, eradication, recovery, and post-incident analysis following established IR frameworks.
-* **Vulnerability Management:** Identifying security weaknesses across systems and applications, with hands-on knowledge of common web vulnerabilities (**OWASP Top 10**).
-* **Infrastructure Security:** Expertise in securing OS (Linux/Windows), network components, and ensuring security best practices at the infrastructure layer (CICSA training).
+* **Threat Detection & Analysis:** Trained in using **SIEM** tools and log analysis techniques for effective security monitoring and triage (CSA focus).
+* **Vulnerability Remediation:** Actively studying and mitigating weaknesses highlighted by the **OWASP Top 10** through project work and ethical hacking practice.
+* **Incident Response Fundamentals:** Practicing the core phases of IR, including analysis, containment, and recovery, within simulated environments.
+* **Infrastructure Defense:** Knowledgeable in securing Linux/Windows operating systems and network components as established by CICSA curriculum.
 
-### 💻 Development Context (Where I Apply Security)
+### 💻 Technical Proficiency
 
-* **Focus Area:** Applying security principles to web environments built with the MERN stack (MongoDB, Express.js, React.js, Node.js).
-* **Secure Code Review:** Identifying and suggesting fixes for vulnerabilities found in application code.
+* **Development Context:** Proficient in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js), providing a solid understanding of web application architecture.
+* **Hands-on Focus:** Dedicated to building **secure code** and implementing defensive controls into personal projects.
 
-### 🌟 Goal
+### 💡 Seeking
 
-My goal is to transition practical threat knowledge into actionable defense strategies, fortifying digital assets from the endpoint to the application layer.
+I am actively seeking opportunities to apply my certification knowledge in an entry-level role where I can contribute to a security-first culture and grow as a professional defender.
 
 ### 🌐 Let's Connect
 
