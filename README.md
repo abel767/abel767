@@ -1,29 +1,24 @@
-👋 Hi, I'm Abel Thomas!
+👋 Hi, I'm **Abel Thomas**!
 
-🚀 MERN Stack Developer | Passionate Programmer | Lifelong Learner
-Welcome to my GitHub! I’m a MERN Stack Developer with a knack for building scalable, efficient, and user-friendly web applications. My passion lies in transforming complex ideas into seamless digital experiences.
+**MERN Stack Developer | Cybersecurity Enthusiast | Secure Code Advocate**
 
-🛠️ Tech Stack
+I specialize in building full-stack web applications with the **MERN** stack, emphasizing **security** from the ground up. I bridge the gap between development efficiency and robust defense, ensuring applications are both scalable and resilient against threats.
 
-Frontend
-React.js | Redux | HTML5 | CSS3 | Tailwind CSS
-Responsive Design and Accessibility
-Backend
-Node.js | Express.js
-REST APIs | Authentication | WebSockets
-Database
-MongoDB | Mongoose
-Dev Tools & Workflow
-Git & GitHub | Postman | Vite | Figma
-Agile Development | Team Collaboration
+### 🛠️ Core Expertise
 
-🌟 What I Do
+* **Secure Web Development (MERN):** React.js, Node.js, Express.js, MongoDB.
+* **Security Focus:** Threat Modeling, secure API design, Authentication (JWT/OAuth), and data integrity.
+* **DevSecOps & Tools:** Git, Postman, Vite, with a focus on integrating security testing into the development lifecycle.
 
-Develop dynamic and responsive full-stack applications using the MERN stack.
-Design intuitive and functional user interfaces with a focus on user experience.
-Write clean, scalable, and maintainable code following industry standards.
+### 🌟 What I'm Focused On
 
-🌐 Connect With Me
+* Developing high-performance, user-friendly applications using modern web standards.
+* Implementing **best practices in application security** to minimize vulnerabilities (OWASP Top 10).
+* Transforming complex security requirements into clean, maintainable code.
 
-💼 LinkedIn: https://www.linkedin.com/in/abel-thomas-60193b27b/
-✉️ Email: abelthomas946@gmail.com
+### 🌐 Let's Connect
+
+| Platform | Link |
+| :--- | :--- |
+| **💼 LinkedIn** | https://www.linkedin.com/in/abel-thomas-60193b27b/ |
+| **✉️ Email** | abelthomas946@gmail.com |
