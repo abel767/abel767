@@ -1,20 +1,26 @@
 👋 Hi, I'm **Abel Thomas**!
 
-**MERN Stack Developer | Cybersecurity Enthusiast | Secure Code Advocate**
+**Certified SOC Analyst (CSA/CICSA) | Threat Detection & Incident Response Specialist**
 
-I specialize in building full-stack web applications with the **MERN** stack, emphasizing **security** from the ground up. I bridge the gap between development efficiency and robust defense, ensuring applications are both scalable and resilient against threats.
+I am a cybersecurity professional dedicated to **detecting, analyzing, and mitigating** digital threats. My expertise stems from deep training in **SOC analysis** and IT infrastructure security, allowing me to provide robust defense against modern attack vectors.
 
-### 🛠️ Core Expertise
+**My development background (MERN) provides a unique advantage in understanding the attacker's perspective and the inner workings of web applications.**
 
-* **Secure Web Development (MERN):** React.js, Node.js, Express.js, MongoDB.
-* **Security Focus:** Threat Modeling, secure API design, Authentication (JWT/OAuth), and data integrity.
-* **DevSecOps & Tools:** Git, Postman, Vite, with a focus on integrating security testing into the development lifecycle.
+### 🛡️ Cybersecurity Core Competencies
 
-### 🌟 What I'm Focused On
+* **SOC Operations:** Proficient in log analysis, security monitoring, and using **SIEM** tools to triage and investigate high-fidelity security alerts.
+* **Incident Response:** Skilled in containment, eradication, recovery, and post-incident analysis following established IR frameworks.
+* **Vulnerability Management:** Identifying security weaknesses across systems and applications, with hands-on knowledge of common web vulnerabilities (**OWASP Top 10**).
+* **Infrastructure Security:** Expertise in securing OS (Linux/Windows), network components, and ensuring security best practices at the infrastructure layer (CICSA training).
 
-* Developing high-performance, user-friendly applications using modern web standards.
-* Implementing **best practices in application security** to minimize vulnerabilities (OWASP Top 10).
-* Transforming complex security requirements into clean, maintainable code.
+### 💻 Development Context (Where I Apply Security)
+
+* **Focus Area:** Applying security principles to web environments built with the MERN stack (MongoDB, Express.js, React.js, Node.js).
+* **Secure Code Review:** Identifying and suggesting fixes for vulnerabilities found in application code.
+
+### 🌟 Goal
+
+My goal is to transition practical threat knowledge into actionable defense strategies, fortifying digital assets from the endpoint to the application layer.
 
 ### 🌐 Let's Connect
 
