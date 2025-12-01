@@ -4,12 +4,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=INITIATING+USER%3A+ABEL+THOMAS;LOADING+ALIAS%3A+%2F%2FDEFENDER_FRESHER;ESTABLISHING+SECURITY+CONTEXT...;ACCESS+GRANTED" alt="Terminal Animation"/>
 </p>
 
-██████╗ ███████╗███████╗███████╗███╗ ██╗████████╗███████╗██████╗
-██╔══██╗██╔════╝██╔════╝██╔════╝████╗ ██║╚══██╔══╝██╔════╝██╔══██╗
-██████╔╝█████╗ ███████╗█████╗ ██╔██╗ ██║ ██║ █████╗ ██████╔╝
-██╔══██╗██╔══╝ ╚════██║██╔══╝ ██║╚██╗██║ ██║ ██╔══╝ ██╔══██╗
-██║ ██║███████╗███████║███████╗██║ ╚████║ ██║ ███████╗██║ ██║
-╚═╝ ╚═╝╚══════╝╚══════╝╚══════╝╚═╝ ╚═══╝ ╚═╝ ╚══════╝╚═╝ ╚═╝
+
+
+```
+  ******** **   ********  ****     **     **     **      ******** ******** *******    *******  
+ **////// /**  **//////**/**/**   /**    ****   /**     //////** /**///// /**////**  **/////** 
+/**       /** **      // /**//**  /**   **//**  /**          **  /**      /**   /** **     //**
+/*********/**/**         /** //** /**  **  //** /**         **   /******* /******* /**      /**
+////////**/**/**    *****/**  //**/** **********/**        **    /**////  /**///** /**      /**
+       /**/**//**  ////**/**   //****/**//////**/**       **     /**      /**  //**//**     ** 
+ ******** /** //******** /**    //***/**     /**/****************/********/**   //**//*******  
+////////  //   ////////  //      /// //      // //////////////// //////// //     //  ///////   
+```
+
+
 
 
 <p align="center">
@@ -18,7 +26,7 @@
 
 ---
 
-## 💀 ABOUT ME //HACKER_PROFILE
+## ABOUT ME 
 
 I'm a **full-stack developer turned cybersecurity enthusiast**, constantly exploring the boundary between building and securing software.  
 
@@ -63,31 +71,26 @@ incident_response: learning_by_breaking_and_fixing
 system_hardening: linux/windows optimized
 
 
----
-
 ## ⚙️ TECHNOLOGY STACK
+
+```
 dev_mode --stack MERN
+```
 
-MongoDB
+- MongoDB  
+- Express.js  
+- React.js  
+- Node.js  
 
-Express.js
-
-React.js
-
-Node.js
-
+```
 cybersecurity_mode --focus defensive
+```
 
-SIEM basics
+- SIEM fundamentals  
+- Log correlation  
+- Vulnerability scanning  
+- Secure coding workflows  
 
-log correlation
-
-vulnerability scanning
-
-secure coding workflows
-
-
----
 
 ## 📟 TERMINAL ACTIVITY LOG
 <p align="center">
